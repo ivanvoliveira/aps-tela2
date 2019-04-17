@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/perfi2l"
+        android:icon="@drawable/ic_cast_24dp"
+        android:title="perfil"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_2"
+        android:icon="@drawable/ic_notifications_24dp"
+        android:title="chat"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_3"
+        android:icon="@drawable/ic_message_24dp"
+        android:title="chat"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/perfil"
+        android:icon="@drawable/perfil"
+        android:title="perfil"
+        app:showAsAction="always" />
+
+
+
+</menu>
