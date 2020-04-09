@@ -1,3 +1,3 @@
 # Layout 2
 
-Reprodução de tela inicial do app Instagram no Android
+Reprodução de tela inicial do app Twitch no Android
